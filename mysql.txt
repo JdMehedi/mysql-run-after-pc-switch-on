@@ -2,3 +2,12 @@
 ~~
 sudo service mysql stop
 ~~
+# then
+~~
+sudo /etc/init.d/apache2 stop
+~~
+#then
+~~
+sudo /opt/lampp/lampp start
+~~
+
